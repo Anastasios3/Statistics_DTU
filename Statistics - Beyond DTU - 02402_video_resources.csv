@@ -1,0 +1,24 @@
+Week,Topic,Video Title,Link,Notes
+1,Descriptive stats & data visualization,"Histograms, Clearly Explained",https://www.youtube.com/watch?v=qBigTkBLU6g,StatQuest – start here for Week 1
+1,Descriptive stats & data visualization,"Boxplots, Clearly Explained",https://www.youtube.com/watch?v=fHLhBnmwUM0,StatQuest – covers quartiles and IQR as DTU defines them
+2,Discrete probability distributions,The Binomial Distribution and Test,https://www.youtube.com/watch?v=J8jNoF-K8E8,StatQuest – best intuition for Binomial
+2,Discrete probability distributions,"Overview of Discrete Distributions (Binomial, Hypergeometric, Poisson)",https://www.youtube.com/watch?v=UrOXRvG9oYE,jbstatistics – all three distributions in one video
+2,Discrete probability distributions,The Hypergeometric Distribution (Full Lecture),https://www.youtube.com/watch?v=3RMfKrC3bRM,jbstatistics – most complete video on Hypergeometric available
+3,"Continuous distributions, linear combinations, multivariate",Main Ideas Behind Probability Distributions,https://www.youtube.com/watch?v=oI3hZJqXJuc,StatQuest – build the right mental model before Normal distribution
+3,"Continuous distributions, linear combinations, multivariate",An Introduction to the Normal Distribution,https://www.youtube.com/watch?v=iYiOVISWXS4,jbstatistics – clean formula-level explanation
+3,"Continuous distributions, linear combinations, multivariate",Normal Distribution and Probability Problems,https://www.youtube.com/watch?v=gHBL5Zau3NE,Organic Chemistry Tutor – solves actual numerical problems step by step
+4,Confidence Intervals,"Confidence Intervals, Clearly Explained",https://www.youtube.com/watch?v=TqOeMYtOc1w,"StatQuest – builds CI using bootstrapping first, then the formula"
+5,Hypothesis Testing,p-values: What They Are and How to Interpret Them,https://www.youtube.com/watch?v=vemZtEM63GY,StatQuest – the single best video on p-values
+5,Hypothesis Testing,One or Two Tailed p-values,https://www.youtube.com/watch?v=bsZGt-caXO4,"StatQuest – short but important, directly relevant to DTU exam questions"
+6,Analysis of Two Samples,Using Linear Models for t-tests and ANOVA,https://www.youtube.com/watch?v=NF5_btOaCig,StatQuest – covers two-sample test inside the linear model framework
+6,Analysis of Two Samples,"Statistical Power, Clearly Explained",https://www.youtube.com/watch?v=Rsc5znwR5FA,StatQuest – covers power and its relation to sample size
+7,Simulation Methods & Bootstrap,"Bootstrapping, Part 1",https://www.youtube.com/watch?v=Xz0x-8-cgaQ,StatQuest – conceptual foundation for Chapter 4 of the DTU book
+7,Simulation Methods & Bootstrap,Bootstrap CI for Linear Regression,https://www.youtube.com/watch?v=xT_3Izjsdxg,StatQuest – shows bootstrap applied to a real model
+7,Simulation Methods & Bootstrap,⚠️ Error propagation via simulation,,No YouTube video covers this in the DTU framing. Use the Week 7 lecture slides and Python notebook from 02402.compute.dtu.dk
+8,Simple Linear Regression,"Linear Regression, Clearly Explained",https://www.youtube.com/watch?v=7ArmBVF2dCs,"StatQuest – covers least squares, residuals, and parameter testing"
+9,Multiple Linear Regression,"Multiple Regression in R, Step-by-Step",https://www.youtube.com/watch?v=hokALdIst8k,StatQuest – language is R but the math is identical to your Python course
+10,"Categorical & Count Data (Proportions, Chi-square)",Chi-Square Test of Independence,https://www.youtube.com/watch?v=hpWdDmgsIRE,Khan Academy – best pen-and-paper walkthrough of contingency table chi-square
+10,"Categorical & Count Data (Proportions, Chi-square)","Odds Ratios and Log Odds, Clearly Explained",https://www.youtube.com/watch?v=8nm0G-1uJzA,StatQuest – builds proportions intuition from Section 7.3 of DTU book
+11,One-Way ANOVA,"One-Way ANOVA, Clearly Explained",https://www.youtube.com/watch?v=0Vj2V2qRU10,StatQuest – covers SS decomposition and F-test directly
+11,One-Way ANOVA,Using Linear Models for t-tests and ANOVA,https://www.youtube.com/watch?v=NF5_btOaCig,StatQuest – critical for seeing how ANOVA connects to the LM framework
+12,Two-Way ANOVA,"Two-Way ANOVA, Clearly Explained",https://www.youtube.com/watch?v=yFQRLuQKYRk,"StatQuest – design matrix approach, maps directly onto Section 8.3 of DTU book"
